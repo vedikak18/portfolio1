@@ -1,0 +1,37 @@
+body {
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+p {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+nav {
+    /* Add styles for navigation if needed */
+}
+
+.content {
+    padding: 20px;
+}
+
+footer {
+    background-color: #222; /* Darker background for the footer */
+    padding: 10px;
+    text-align: center;
+}
